@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+qdrant-client
+sentence-transformers
+scikit-learn
+matplotlib
+pypdf
+python-docx
+requests

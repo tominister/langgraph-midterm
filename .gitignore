@@ -1,0 +1,36 @@
+# Python virtual environment folders
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+*.egg-info/
+*.egg
+dist/
+build/
+wheels/
+*.whl
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large uploaded assets - move these to external storage instead
+uploads/
+
+# Optional: ignore the local environment file
+.env
+
+# Git LFS pointer files (if you use LFS)
+*.gitattributes
