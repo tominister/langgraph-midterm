@@ -1,5 +1,7 @@
 # Document RAG Agent
 
+Independent end-to-end RAG application covering document ingestion, embedding, vector retrieval and grounded generation. It is intentionally compact and documents the authentication, access-control and evaluation work required before production use.
+
 A compact retrieval-augmented generation application for asking questions about uploaded PDF and text documents.
 
 ## How it works
